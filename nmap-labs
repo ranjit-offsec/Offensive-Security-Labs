@@ -1,0 +1,10 @@
+# Nmap Enumeration Labs
+
+This folder contains my hands-on Nmap scanning and enumeration practice.
+
+## Topics Covered
+- Basic scanning
+- Service version detection
+- OS detection
+- Aggressive scans
+- Port scanning techniques
